@@ -1,0 +1,14 @@
+C:\Users\JoshuaDeKlerk\Dev Personal\MzansiPayrollSystem\MzansiPayrollSystem\MzansiPayrollSystem\bin\Debug\net8.0-windows\MzansiPayrollSystem.exe
+C:\Users\JoshuaDeKlerk\Dev Personal\MzansiPayrollSystem\MzansiPayrollSystem\MzansiPayrollSystem\bin\Debug\net8.0-windows\MzansiPayrollSystem.deps.json
+C:\Users\JoshuaDeKlerk\Dev Personal\MzansiPayrollSystem\MzansiPayrollSystem\MzansiPayrollSystem\bin\Debug\net8.0-windows\MzansiPayrollSystem.runtimeconfig.json
+C:\Users\JoshuaDeKlerk\Dev Personal\MzansiPayrollSystem\MzansiPayrollSystem\MzansiPayrollSystem\bin\Debug\net8.0-windows\MzansiPayrollSystem.dll
+C:\Users\JoshuaDeKlerk\Dev Personal\MzansiPayrollSystem\MzansiPayrollSystem\MzansiPayrollSystem\bin\Debug\net8.0-windows\MzansiPayrollSystem.pdb
+C:\Users\JoshuaDeKlerk\Dev Personal\MzansiPayrollSystem\MzansiPayrollSystem\MzansiPayrollSystem\obj\Debug\net8.0-windows\MzansiPayrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoshuaDeKlerk\Dev Personal\MzansiPayrollSystem\MzansiPayrollSystem\MzansiPayrollSystem\obj\Debug\net8.0-windows\MzansiPayrollSystem.AssemblyInfoInputs.cache
+C:\Users\JoshuaDeKlerk\Dev Personal\MzansiPayrollSystem\MzansiPayrollSystem\MzansiPayrollSystem\obj\Debug\net8.0-windows\MzansiPayrollSystem.AssemblyInfo.cs
+C:\Users\JoshuaDeKlerk\Dev Personal\MzansiPayrollSystem\MzansiPayrollSystem\MzansiPayrollSystem\obj\Debug\net8.0-windows\MzansiPayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\JoshuaDeKlerk\Dev Personal\MzansiPayrollSystem\MzansiPayrollSystem\MzansiPayrollSystem\obj\Debug\net8.0-windows\MzansiPayrollSystem.dll
+C:\Users\JoshuaDeKlerk\Dev Personal\MzansiPayrollSystem\MzansiPayrollSystem\MzansiPayrollSystem\obj\Debug\net8.0-windows\refint\MzansiPayrollSystem.dll
+C:\Users\JoshuaDeKlerk\Dev Personal\MzansiPayrollSystem\MzansiPayrollSystem\MzansiPayrollSystem\obj\Debug\net8.0-windows\MzansiPayrollSystem.pdb
+C:\Users\JoshuaDeKlerk\Dev Personal\MzansiPayrollSystem\MzansiPayrollSystem\MzansiPayrollSystem\obj\Debug\net8.0-windows\MzansiPayrollSystem.genruntimeconfig.cache
+C:\Users\JoshuaDeKlerk\Dev Personal\MzansiPayrollSystem\MzansiPayrollSystem\MzansiPayrollSystem\obj\Debug\net8.0-windows\ref\MzansiPayrollSystem.dll
